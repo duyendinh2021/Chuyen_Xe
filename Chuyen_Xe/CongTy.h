@@ -36,5 +36,8 @@ public:
 			this->dsChuyenXe[i]->xuat();
 		}
 	}
+	void xuat() {
+		cout << "\n";
+	}
 };
 

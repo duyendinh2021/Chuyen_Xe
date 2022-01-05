@@ -4,7 +4,6 @@ int main() {
 	//gọi hàm khơi chuyến xe ngoai thanh
 
 	Ct->dschuyenxengoaithanh();
-
 	delete Ct;
 	return 0;
 }
